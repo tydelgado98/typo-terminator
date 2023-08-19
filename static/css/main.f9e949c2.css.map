@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f9e949c2.css","mappings":"AAAA,KAAM,iCAAsC,CAE5C,cAAc,CACd,oBAAoB,CACpB,mBAAmB","sources":["component/tailwind.css"],"sourcesContent":["body {font-family: 'Montserrat', sans-serif;}\n\n@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n"],"names":[],"sourceRoot":""}

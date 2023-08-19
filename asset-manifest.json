@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typo-terminator/static/css/main.f9e949c2.css",
+    "main.js": "/typo-terminator/static/js/main.9976ae91.js",
+    "index.html": "/typo-terminator/index.html",
+    "main.f9e949c2.css.map": "/typo-terminator/static/css/main.f9e949c2.css.map",
+    "main.9976ae91.js.map": "/typo-terminator/static/js/main.9976ae91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9e949c2.css",
+    "static/js/main.9976ae91.js"
+  ]
+}
