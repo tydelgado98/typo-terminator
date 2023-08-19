@@ -1,4 +1,5 @@
 {
+  "homepage": "http://tydelgado98.github.io/typo-terminator",
   "name": "typo-terminator",
   "version": "0.1.0",
   "private": true,
@@ -33,6 +34,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "concurrently \"react-scripts start\" \"nodemon server.js\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -62,6 +65,7 @@
     "concurrently": "^7.6.0",
     "crypto-browserify": "^3.12.0",
     "css-loader": "^6.5.1",
+    "gh-pages": "^6.0.0",
     "html-webpack-plugin": "^5.5.0",
     "https-browserify": "^1.0.0",
     "os-browserify": "^0.3.0",
